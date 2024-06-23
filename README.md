@@ -20,3 +20,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-taggart&show_icons=true&locale=en" alt="andrew-taggart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taggart&" alt="andrew-taggart" /></p>
+
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Javascript, Python, SQL, HTML, CSS
+- **Franmeworks & Libraries** React, Node.js, Express, Django
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, AWS, VS-Code
+
+## 📚 I’m currently learning and looking to collaborate on
+
+- **Marchine Learning Applications**
+- **Game Development**
+- **Data Analytics and Visualization Tools**
+
+## Projects
+
+### [Ticketly](https://github.com/Lane17027/Ticketly)
+A React-based application for venue discovery, event browsing, and customer reviews.
+
+- **Languages:**
+- **Technologies:**
+- **Team:**: Andrew, Lane, CJ
+
+### [DADA](https://github.com/andrew-taggart/DADA)
+A React-based application for venue discovery, event browsing, and customer reviews.
+
+- **Languages:**
+- **Technologies:**
+- **Team:**: Andrew, Lane, CJ
