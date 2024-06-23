@@ -17,14 +17,14 @@ I'm a full-stack Software Engineer, with an interest in backend development, sta
 
 ##Projects
 
-### [Ticketly][https://github.com/Lane17027/Ticketly]
+### [Ticketly](https://github.com/Lane17027/Ticketly)
 A React-based application for venue discovery, event browsing, and customer reviews.
 
 - **Languages:**
 - **Technologies:**
 - **Team:**: Andrew, Lane, CJ
 
-### [DADA][https://github.com/andrew-taggart/DADA]
+### [DADA](https://github.com/andrew-taggart/DADA)
 A React-based application for venue discovery, event browsing, and customer reviews.
 
 - **Languages:**
@@ -32,7 +32,7 @@ A React-based application for venue discovery, event browsing, and customer revi
 - **Team:**: Andrew, Lane, CJ
 
 ## 📫 Contact Me
-- **LinkedIn:** [andrew-h-taggart][https://www.linkedin.com/in/andrew-h-taggart/]
+- **LinkedIn:** [andrew-h-taggart](https://www.linkedin.com/in/andrew-h-taggart/)
 
 
 
