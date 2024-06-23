@@ -9,13 +9,13 @@ I'm a full-stack Software Engineer, with an interest in backend development, sta
 - **Databases:** PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, AWS, VS-Code
 
-## 📚 I’m currently learning and looking to collaborate on** 
+## 📚 I’m currently learning and looking to collaborate on
 
 - **Marchine Learning Applications**
 - **Game Development**
 - **Data Analytics and Visualization Tools**
 
-##Projects
+## Projects
 
 ### [Ticketly](https://github.com/Lane17027/Ticketly)
 A React-based application for venue discovery, event browsing, and customer reviews.
