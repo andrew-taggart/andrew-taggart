@@ -20,7 +20,8 @@
 
 ## About Me
 
-I am a recent Data Science graduate focused on building practical machine learning, analytics, and data-driven applications. My background combines software engineering, fitness coaching, and applied problem-solving, with current work centered on Python, SQL, machine learning, dashboards, and production-style data projects.
+I am a recent Data Science M.S. graduate focused on building practical data-driven solutions using Python, SQL, machine learning, analytics, and full-stack development.
+My current work centers on developing an end-to-end data science portfolio that demonstrates real-world applications, including predictive modeling, data pipelines, analytics dashboards, and machine learning workflows. I am especially interested in projects that turn raw data into useful insights, reliable systems, and decision-support tools.
 
 ---
 
