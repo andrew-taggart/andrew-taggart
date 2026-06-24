@@ -1,7 +1,7 @@
 <h1 align="center">Andrew Taggart</h1>
 
 <h3 align="center">
-  Aspiring Data Scientist | Machine Learning | Analytics Engineering
+  Data Scientist | Machine Learning | Analytics Engineering
 </h3>
 
 <p align="center">
