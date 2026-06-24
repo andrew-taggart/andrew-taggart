@@ -82,7 +82,8 @@ My current work centers on developing an end-to-end data science portfolio that 
 </p>
 
 ---
-
+<!-- Change or Remmove Later -->
+<!-- 
 ## Featured Projects
 
 <table>
@@ -123,7 +124,7 @@ My current work centers on developing an end-to-end data science portfolio that 
     </td>
   </tr>
 </table>
-
+ -->
 ---
 
 ## Previous Projects
