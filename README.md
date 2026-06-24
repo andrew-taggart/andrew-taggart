@@ -124,9 +124,9 @@ My current work centers on developing an end-to-end data science portfolio that 
     </td>
   </tr>
 </table>
- -->
----
 
+---
+ -->
 ## Previous Projects
 
 ### Ticketly
@@ -144,17 +144,6 @@ A collaborative web application project built with a full-stack development work
 **Tools:** React, JavaScript  
 **Status:** Completed / Previous Project  
 **Repository:** [DADA](https://github.com/andrew-taggart/DADA)
-
----
-
-## Portfolio Roadmap
-
-- [ ] Build portfolio dashboard
-- [ ] Add first deployed machine learning project
-- [ ] Add analytics dashboard
-- [ ] Add data pipeline project
-- [ ] Add AI/RAG assistant project
-- [ ] Add MLOps monitoring project
 
 ---
 
